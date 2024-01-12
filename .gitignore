@@ -2,3 +2,5 @@ cats-v-dogs
 PetImages
 venv
 .ipynb_checkpoints
+horse-or-human
+inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
