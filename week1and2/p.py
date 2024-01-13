@@ -1,11 +1,4 @@
-import random
-import os
+import numpy as np
 
-a = [1,2,3,4,5,6,7]
-
-per = 50
-
-per = per *len(a)//100
-array1 = random.sample(a, per)
+a = np.array([1,2,3,4,5])
 print(a)
-print(array1)
